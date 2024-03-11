@@ -1,2 +1,2 @@
 # rust-data-structures
-Learning to implement the Data Structures in rust
+Learning Data Structures by implementing them in rust
