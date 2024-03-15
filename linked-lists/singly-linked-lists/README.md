@@ -41,14 +41,14 @@ A singly linked list is a uni-directional linked list; So, you can only traverse
 7. `size` - Gives the size of the list;
 ---
 
-## Why Singly Linked List?
+## When to use Singly Linked List?
 
 - **Efficient insertions and deletions:** Inserting or deleting elements at the beginning or middle of the list is efficient;
 - **Dynamic size:** Can grow or shrink dynamically as elements are added or removed;
 
 ---
 
-## Why ! Singly Linked List?
+## When ! to use Singly Linked List?
 
 - **Random Access:** Required to iterate from start to end of the list to find the desired item as the space is allocated on the Heap;
 
